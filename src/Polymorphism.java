@@ -7,11 +7,13 @@ public class Polymorphism {
     myCat.eat(); // prints "Cat is eating", since Cat extends Animal class
 
     Mouse myMouse = new Mouse();
-    myMouse.eat(); // prints "Mouse is eating", since Mouse overides the eat method from Animal
+    myMouse.eat(); // prints
+    // "Mouse is eating", since Mouse overrides the eat method from Animal
   }
+
 }
 
 /*
- * The word polymorphism means "many forms". This means a class can perform the same operation but
+ * The word polymorphism means "many forms". This means a class can perf orm the same operation but
  * in different ways
  */

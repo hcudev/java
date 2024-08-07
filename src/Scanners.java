@@ -2,8 +2,7 @@ import java.util.Scanner;
 
 public class Scanners {
   public static void main(String[] args) {
-    // Creates a variable stdin that initializes the scanner class with the InputStream constructor
-    // (in).
+    // Creates a variable stdin that initializes the scanner class with the InputStream constructor (in).
     Scanner stdin = new Scanner(System.in);
 
     System.out.print("What is your name: ");
